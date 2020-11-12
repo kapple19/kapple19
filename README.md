@@ -6,13 +6,13 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 
 ### Career
 
-[<img align="left" alt="UNSW Icon" height="22px" src="https://iconape.com/wp-content/files/ta/195761/png/unsw-australia-university-of-new-south-wales-logo.png" />][unsw] \
+[<img align="left" alt="UNSW Icon" height="22px" src="https://iconape.com/wp-content/files/ta/195761/png/unsw-australia-university-of-new-south-wales-logo.png" />][unsw]
 \
 * Bachelor of Advanced Science (Honours) (Advanced Mathematics)
 * Class IIA
 * Graduated 2017
 
-[<img align="left" alt="Thales Icon" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thales_Logo.svg" />][thales] \
+[<img align="left" alt="Thales Icon" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thales_Logo.svg" />][thales]
 \
 * Ocean Acoustics Modeller
 * Thales Australia, Underwater Systems, General Sonar Studies
@@ -23,7 +23,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 [<img align="left" alt="LaTeX Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_tex.svg" />][latex]
 [<img align="left" alt="Matlab Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_matlab.svg" />][matlab]
 [<img align="left" alt="C++ Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" />][cpp]
-[<img align="left" alt="Visual Studio Code Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />][vscode] \
+[<img align="left" alt="Visual Studio Code Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />][vscode]
 
 ### I am novice/intermediate in
 
