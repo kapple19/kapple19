@@ -1,0 +1,304 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{classic}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.75, margin=2.5cm]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+ 
+% personal data
+\name{Aaron Jordan}{Kaw}
+%\title{Resumé}                               % optional, remove / comment the line if not wanted
+\title{Curriculum Vitae}
+% \address{Ocean Acoustics Modeler}{Thales Underwater Systems}{274 Victoria Rd, Rydalmere NSW Australia}
+\address{Ocean Acoustics Modeller}{}{NW Sydney, NSW, Australia}
+% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+%\phone[mobile]{+1~(234)~567~890}                   % optional, remove / comment the line if not wanted
+%\phone[fixed]{+2~(345)~678~901}                    % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+\email{aaronjkaw@gmail.com}                               % optional, remove / comment the line if not wanted
+\homepage{https://github.com/kapple19}                         % optional, remove / comment the line if not wanted
+%\extrainfo{additional information}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+
+\section{Employment}
+\cventry{2017--Current}
+{Ocean Acoustics Modeller}
+{Thales Underwater Systems}
+{Rydalmere Australia}
+{}
+{Projects include:}
+\begin{cvcolumns}
+	\cvcolumn{}{
+		\begin{itemize}
+			\item Maintenance, performance analysis and reverse-engineering of existing ocean acoustics simulators in C++, producing professional documentation including derivations and analysis of the implemented models
+			\item Developing a Matlab library of classes and functions which implement theoretical and empirical studies for ocean acoustics propagation, producing simulations in complex ocean environments
+			\item Mathematical analysis of potential submarine performances for company bids, including sonar ranging and accuracy of a variety of sonar arrays
+			\item Production of graphical user interfaces to increase accessibility of high performance computational models for at sea and pre-and-post trial analyses for scientists, engineers, and operators
+		\end{itemize}
+	}
+\end{cvcolumns}
+\cventry{2015--17}
+{Self Employed Tutor}
+{}
+{teaching primary and high-school students in multiple subjects, including practical piano, musical theory and mathematics}
+{}
+{}
+
+\section{Education}
+\cventry{2012, 2015--2017}{Bachelor of Science (Advanced Mathematics) (Honours Class II-A)}{University of New South Wales, Australia}{}{}
+{Thesis: \textbf{Diffusion of Proteins on Cell Membranes} with A. Prof. Adelle Coster as supervisor}
+\vspace{6pt}
+\cvitem{}{Honours research involved:}
+\cvlistitem{Modelling protein motion with partial differential equations on a variety of manifolds}
+\cvlistitem{Running a high-level simulation on a cluster computer program}
+\vspace{6pt}
+\cvitem{}{Courses include:}
+\begin{cvcolumns}
+	\cvcolumn{}{
+		\begin{itemize}
+			\item Fluids, Oceans and Climate
+			\item Physics
+			\item Atmosphere and Ocean Dynamics
+			\item Mathematical Biology
+			\item Differential Equations
+			\item Probability and Stochastic Processes
+			\item Ergodic Theory
+			\item Applied Functional Analysis
+			\item Linear Models
+			\item Complex Analysis
+		\end{itemize}
+	}
+	\cvcolumn{}{
+		\begin{itemize}
+			\item Computational Mathematics
+			\item Mathematical Modelling
+			\item Computing
+			\item Mathematical Computing
+			\item Several Variable Calculus
+			\item Linear Algebra
+			\item Theory of Statistics
+			\item Topology and Differential Geometry
+			\item Information, Codes and Ciphers
+			\item Discrete Mathematics
+		\end{itemize}
+	}
+\end{cvcolumns}
+
+\cventry{2006--2011}
+{Higher School Certificate}
+{Patrician Brothers' College, Fairfield}
+{Australia}
+{ATAR: 90.70}
+{}
+
+%\section{Ph.D Thesis}
+%\cvitem{Title}{\emph{Geometric Singular Perturbation Theory}}
+%\cvitem{Supervisor}{Professor Martin Wechselberger}
+%\cvitem{Description}{Short thesis abstract}
+
+%\cventry{year--year}{Job title}{Employer}{City}{}{Description line 1\newline{}Description line 2}
+%\subsection{Miscellaneous}
+%\cventry{year--year}{Job title}{Employer}{City}{}{Description}
+
+%\section{Languages}
+%\cvitemwithcomment{Language 1}{Skill level}{Comment}
+%\cvitemwithcomment{Language 2}{Skill level}{Comment}
+% \cvitemwithcomment{Language 3}{Skill level}{Comment}
+
+% \section{Skills Profile}
+%\cventry{2015}{SIAM Conference on Applications of Dynamical Systems}{Snowbird UT}{USA}{}
+%{Averaging and Torus Canards in the pre-BötC}
+
+% \cvitem{May 2015}{Co-organiser of the minisymposium "Torus Canards in Applications", SIAM Conference on Applications of Dynamical Systems (Snowbird UT, USA).}
+
+% \section{Publications}
+% \subsection{Refereed Journal Articles}
+
+% \cvitem{1.}{Roberts, K., Rubin, J., \& Wechselberger, M. (2015). \textbf{Averaging, folded singularities, and torus canards: Explaining transitions between bursting and spiking in a coupled neuron model.} \emph{Siam Journal on Applied Dynamical Systems, 14(4)}, 1808-1844. doi:10.1137/140981770}
+
+% \subsection{In Preparation}
+
+% \cvitem{1.}
+% {Kaw, A. J., \& Coster, A. \textbf{Protein Diffusion on Cell Membranes}}
+
+% \cvitem{2.}
+% {Kaw, A. J. \textbf{Adapting the Electromagnetic Reflection Coefficient off Rough Surfaces for Acoustic Waves}}
+
+% \cvitem{3.}
+% {Kaw, A. J., \& Bedwell, I. \textbf{Case Study of Lloyd's Mirror Interference of Acoustics in Sandy, Shallow Water}}
+
+% \section{Professional Experience}
+% \subsection{Teaching}
+% \cventry{2012--2017}{Tutor}{University of Sydney}{Australia}{}
+%{General description no longer than 1--2 lines.\newline{}%
+%Detailed achievements:%
+%\begin{itemize}%
+%	\item Achievement 1;
+%	\item Achievement 2, with sub-achievements:
+%	\begin{itemize}%
+%		\item Sub-achievement (a);
+%		\item Sub-achievement (b), with sub-sub-achievements (don't do this!);
+%		\begin{itemize}
+%			\item Sub-sub-achievement i;
+%			\item Sub-sub-achievement ii;
+%			\item Sub-sub-achievement iii;
+%		\end{itemize}
+%		\item Sub-achievement (c);
+%	\end{itemize}
+%	\item Achievement 3.
+%\end{itemize}}
+% {Tutored various subjects for the School of Mathematics and Statistics:
+% 	\begin{itemize}%
+% 		\item MATH3063 (Nonlinear ODEs with Applications),
+% 		\item MATH3974 (Advanced Fluid Dynamics),
+% 		\item MATH1001 (Differential Calculus),
+% 		\item MATH1011 (Applications of Calculus),
+% 		\item MATH1002 (Linear Algebra),
+% 		\item MATH1003 (Integral Calculus and Modelling),
+% 		\item MATH1013 (Mathematical Modelling).
+% 	\end{itemize}}
+
+\section{Programming}
+% \cvdoubleitem{Accomplished}{}{}{}
+\subsection{Languages \& Tools}
+\cvitem{Proficient}{\LaTeX, Matlab, Julia, Visual Studio Code}
+\cvitem{Competent}{C++, Visual Studio}
+
+\subsection{Projects}
+\cvlistitem{Package development of ocean acoustics model implementations suite}
+\cvlistitem{Cellular membrane protein diffusion with TIRF microscopy analysis}
+
+\section{Interests}
+
+\subsection{Piano Performance}
+\cvlistitem{Australian Music Examinations Board: 8\textsuperscript{th} Grade Practical}
+\cvlistitem{Australian Music Examinations Board: 4\textsuperscript{th} Grade Theory}
+\cvlistitem{International Convention Centre, audience of 8000, accompanying a professional violinist, 25 minute performance}
+\cvlistitem{Ryde Eisteddfod Inc. Competition, 1\textsuperscript{st} Place}
+\vspace{3pt}
+
+\subsection{Julia Programming}
+\cvlistitem{Learning via tutorials and projects}
+\cvlistitem{Growing list of personal projects}
+\cvlistitem{Gradual adoption of Julia at work}
+\vspace{3pt}
+
+\subsection{Other Interests}
+\begin{cvcolumns}
+	\cvcolumn{}{
+		\begin{itemize}
+			\item Hiking
+			\item Electric Skateboarding
+			\item Skiing
+			\item Surfing
+			\item Church Service (Mission: 2013--2015)
+		\end{itemize}
+	}
+	\cvcolumn{}{
+		\begin{itemize}
+			\item Escape Rooms
+			\item Reading (Science)
+			\item Puzzles
+			\item Party Games
+			\item xkcd
+		\end{itemize}
+	}
+\end{cvcolumns}
+
+%\section{Extra 1}
+%\cvlistitem{Item 1}
+%\cvlistitem{Item 2}
+%\cvlistitem{Item 3. This item is particularly long and therefore normally spans over several %lines. Did you notice the indentation when the line wraps?}
+
+%\section{Extra 2}
+%\cvlistdoubleitem{Item 1}{Item 4}
+%\cvlistdoubleitem{Item 2}{Item 5\cite{book1}}
+%\cvlistdoubleitem{Item 3}{Item 6. Like item 3 in the single column list before, this item is particularly long to wrap over several lines.}
+
+\section{References}
+\begin{cvcolumns}
+	\cvcolumn{Name}{\begin{itemize}
+		\item[] Patrick Cooper
+		\item[] A. Prof. Adelle Coster
+		\item[] Adam Aalders
+	\end{itemize}}
+	\cvcolumn{Contact Details}{\begin{itemize}
+		\item[] Patrick.Cooper@thalesgroup.com.au
+		\item[] A.Coster@unsw.edu.au
+		\item[] AaldersAJ@ldschurch.org
+	\end{itemize}}
+  %\cvcolumn[0.5]{All the rest \& some more}{\textit{That} person, and \textbf{those} also (all available upon request).}
+\end{cvcolumns}
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+% \nocite{*}
+% \bibliographystyle{plain}
+%\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+\clearpage
+%-----       letter       ---------------------------------------------------------
+% recipient data
+%\recipient{Company Recruitment team}{Company, Inc.\\123 somestreet\\some city}
+%\date{January 01, 1984}
+%\opening{Dear Sir or Madam,}
+%\closing{Yours faithfully,}
+%\enclosure[Attached]{curriculum vit\ae{}}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+%\makelettertitle
+
+%Albert Einstein discovered that $e=mc^2$ in 1905.
+
+%\[ e=\lim_{n \to \infty} \left(1+\frac{1}{n}\right)^n \]
+
+%\makeletterclosing
+
+%\clearpage\end{CJK*}                              % if you are typesetting your resume in Chinese using CJK; the \clearpage is required for fancyhdr to work correctly with CJK, though it kills the page numbering by making \lastpage undefined
+\end{document}
+
+
+%% end of file `template.tex'.

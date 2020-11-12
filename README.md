@@ -38,6 +38,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 * 🧩 Iron puzzles
 * ⛷️ Skiing
 * 🎵 Rhythm games
+* 🏄 Surfing
 * 🥧 Mathematics
 * 👨‍💻 Scientific programming
 
