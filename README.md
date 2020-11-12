@@ -1,6 +1,7 @@
 ## Aaron Kaw (kapple19)
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]\
+\
 G'day! This GitHub profile is a collection of personal projects I'm working on.
 
 ### Career
@@ -36,7 +37,7 @@ Ocean Acoustics Modeller
 * Learn [Julia Programming][julia]
 * Complete studying [Computational Ocean Acoustics][acoustics_book]
 
-#### Projects:
+#### Projects
 * In development:
   * [Ocean acoustics modelling software][oac]
   * Publish a completion of my honours thesis on [protein diffusion][diffusion] on cell membranes
