@@ -6,6 +6,8 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 
 ## Career
 
+See my [curriculum vitae][cv]!
+
 [<img align="left" alt="UNSW Icon" height="26px" src="https://iconape.com/wp-content/files/ta/195761/png/unsw-australia-university-of-new-south-wales-logo.png" />][unsw]
 <br>
 
@@ -27,6 +29,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 [<img align="left" alt="Matlab Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_matlab.svg" />][matlab]
 [<img align="left" alt="C++ Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" />][cpp]
 [<img align="left" alt="Visual Studio Code Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />][vscode]
+[<img align="left" alt="Git Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" />][git]
 <br>
 
 ## Neophyte
@@ -89,3 +92,7 @@ Publish a completion of my honours thesis on [protein diffusion][diffusion] on c
 [cpp]: https://isocpp.org/
 
 [vscode]: https://code.visualstudio.com/
+
+[git]: https://git-scm.com/
+
+[cv]: https://github.com/kapple19/kapple19/blob/main/cv/cv_aaronkaw.pdf
