@@ -1,5 +1,7 @@
 ## Aaron Kaw (kapple19)
 
+[<img align="left" alt="kapple19 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/facebook.svg" />][facebook]
+
 [<img align="left" alt="kapple19 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] \
 \
 G'day! This GitHub profile is a collection of personal projects I'm working on.
@@ -69,6 +71,20 @@ Publish a completion of my honours thesis of [protein diffusion][diffusion] on c
   * As part of profession
   * [Computational Ocean Acoustics][acoustics_book]
 
+## Favourite Quotes
+
+> "We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more important things."
+> 
+> Posted outside the mathematics reading room, University of Tromsø.
+
+> Alice laughed: "There's no use trying," she said; "one can't believe impossible things." "I daresay you haven’t had much practice," said the Queen. "When I was younger, I always did it for half an hour a day. Why, sometimes I've believed as many as six impossible things before breakfast."
+> 
+> Lewis Carroll. Through the Looking Glass: and what Alice Found There.
+
+> "At some point, everything's gonna go south on you... everything's going to go south and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is. You just begin. You do the math. You solve one problem... and you solve the next one... and then the next. And If you solve enough problems, you get to come home."
+> 
+> Mark Watney, The Martian
+
 [linkedin]: https://www.linkedin.com/in/aaron-kaw-392033b3/
 
 [thales]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiBjbiThv3sAhUszzgGHcTAB_wQFjAAegQICBAD&url=https%3A%2F%2Fwww.thalesgroup.com%2Fen%2Fcountries%2Fasia-pacific%2Faustralia&usg=AOvVaw0o4ME_CLs4zcheYAOAFiCH
@@ -99,3 +115,5 @@ Publish a completion of my honours thesis of [protein diffusion][diffusion] on c
 [cv]: https://github.com/kapple19/kapple19/blob/main/cv/cv_aaronkaw.pdf
 
 [github]: https://github.com/
+
+[facebook]: https://www.facebook.com/aaron.kaw.98
