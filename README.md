@@ -29,7 +29,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 [<img align="left" alt="Visual Studio Code Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />][vscode]
 <br>
 
-## I am novice/intermediate in
+## Neophyte
 
 * 🎹 Playing the piano
 * 🔐 Escape rooms
@@ -49,7 +49,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 ![](https://github.com/kapple19/OceanAcoustics.jl/blob/master/plots/raytraces/n2linear.png)
 
 ### Protein Diffusion
-Publish a completion of my honours thesis on [protein diffusion][diffusion] on cell membranes
+Publish a completion of my honours thesis on [protein diffusion][diffusion] on cell membranes.
 
 ### Prospective
 * Write MP3-analysing, beatmap producing software for [rhythm games][osu]
