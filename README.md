@@ -5,13 +5,14 @@
 G'day! This GitHub profile is a collection of personal projects I'm working on.
 
 ### Career
-[<img align="left" alt="UNSW Icon" height="22px" src="https://cdn.worldvectorlogo.com/logos/unsw-3.svg" />][unsw]
+
+[<img align="left" alt="UNSW Icon" height="22px" src="https://iconape.com/wp-content/files/ta/195761/png/unsw-australia-university-of-new-south-wales-logo.png" />][unsw]\
 \
 * Bachelor of Advanced Science (Honours) (Advanced Mathematics)
 * Class IIA
 * Graduated 2017
 
-[<img align="left" alt="Thales Icon" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thales_Logo.svg" />][thales]
+[<img align="left" alt="Thales Icon" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thales_Logo.svg" />][thales]\
 \
 * Ocean Acoustics Modeller
 * Thales Australia, Underwater Systems, General Sonar Studies
@@ -76,3 +77,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 [latex]: https://www.latex-project.org/
 
 [unsw]: https://www.unsw.edu.au/
+
+[cpp]: https://isocpp.org/
+
+[vscode]: https://code.visualstudio.com/
