@@ -1,7 +1,7 @@
-# Aaron Kaw (kapple19)
+## Aaron Kaw (kapple19)
 G'day! This GitHub profile is a collection of personal projects I'm working on.
 
-## Career
+### Career
 BSc. (Hon) (Maths)
 * Class IIA
 * Graduated 2017
@@ -10,7 +10,7 @@ Ocean Acoustics Modeller
 * Thales Australia, Underwater Systems, General Sonar Studies
 * 2017 - present
 
-## Interests
+### Interests
 I am novice/intermediate in:
 * 🎹 Playing the piano
 * 🚪 Escape rooms
@@ -23,7 +23,7 @@ I am novice/intermediate in:
 * ⚛️ Physics
 * 👨‍💻 Scientific programming
 
-## Goals
+### Goals
 General:
 * Publishing in academia
   * Applied mathematics
@@ -36,7 +36,7 @@ Specific:
 * Publish a completion of my honours thesis on protein diffusion on cell membranes
 * Write MP3-analysing, beatmap producing software for rhythm games
 
-## Contact Me
+### Contact Me
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/aaron-kaw-392033b3/
