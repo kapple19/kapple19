@@ -1,17 +1,28 @@
 ## Aaron Kaw (kapple19)
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]\
+[<img align="left" alt="kapple19 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]\
 \
 G'day! This GitHub profile is a collection of personal projects I'm working on.
 
 ### Career
-BSc. (Hon) (Maths)
+#### BSc. (Hon) (Maths)
 * Class IIA
 * Graduated 2017
 
-Ocean Acoustics Modeller
+#### Ocean Acoustics Modeller
 * [Thales Australia][thales], Underwater Systems, General Sonar Studies
 * 2017 - present
+
+#### Languages & Tools
+* [<img align="left" alt="kapple19 | Julia" width="22px" src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-dots.svg" />][julia] Julia
+* [<img align="left" alt="kapple19 | Julia" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_julia.svg" />][julia] Julia
+* Matlab
+* LaTeX
+
+* Visual Studio Code
+* Visual Studio
+* 
+
 
 ### I am novice/intermediate in
 * 🎹 Playing the piano
