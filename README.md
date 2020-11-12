@@ -75,7 +75,9 @@ Publish a completion of my honours thesis of [protein diffusion][diffusion] on c
 
 ## GitHub Stats
 
-<img align="left" alt="kapple19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kapple19&show_icons=true&hide_border=true" />\
+<img align="left" alt="kapple19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kapple19&show_icons=true&hide_border=true" />
+
+
 
 ## Favourite Quotes
 
