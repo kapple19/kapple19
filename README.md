@@ -73,6 +73,10 @@ Publish a completion of my honours thesis of [protein diffusion][diffusion] on c
   * As part of profession
   * [Computational Ocean Acoustics][acoustics_book]
 
+## GitHub Stats
+
+<img align="left" alt="kapple19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kapple19&show_icons=true&hide_border=true" />
+
 ## Favourite Quotes
 
 > "We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more important things."
