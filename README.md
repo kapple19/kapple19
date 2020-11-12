@@ -37,6 +37,4 @@ Specific:
 * Write MP3-analysing, beatmap producing software for rhythm games
 
 ## Contact Me
-| Platform | Contact |
-|---|---|
-| | |
+https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white
