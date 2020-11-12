@@ -10,7 +10,8 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 * Graduated 2017
 
 #### Ocean Acoustics Modeller
-* [Thales Australia][thales], Underwater Systems, General Sonar Studies
+[<img align="left" alt="Thales Icon" width="22px" src="https://commons.wikimedia.org/wiki/File:Thales_Logo.svg" />][thales]
+* Thales Australia, Underwater Systems, General Sonar Studies
 * 2017 - present
 
 #### Languages & Tools
