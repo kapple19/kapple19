@@ -30,6 +30,7 @@ See my [curriculum vitae][cv]!
 [<img align="left" alt="C++ Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" />][cpp]
 [<img align="left" alt="Visual Studio Code Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />][vscode]
 [<img align="left" alt="Git Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" />][git]
+[<img align="left" alt="GitHub Icon" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />][github]
 <br>
 
 ## Neophyte
@@ -96,3 +97,5 @@ Publish a completion of my honours thesis on [protein diffusion][diffusion] on c
 [git]: https://git-scm.com/
 
 [cv]: https://github.com/kapple19/kapple19/blob/main/cv/cv_aaronkaw.pdf
+
+[github]: https://github.com/
