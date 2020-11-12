@@ -81,7 +81,7 @@ Publish a completion of my honours thesis of [protein diffusion][diffusion] on c
 
 > Alice laughed: "There's no use trying," she said; "one can't believe impossible things." "I daresay you haven’t had much practice," said the Queen. "When I was younger, I always did it for half an hour a day. Why, sometimes I've believed as many as six impossible things before breakfast."
 > 
-> Lewis Carroll. Through the Looking Glass: and what Alice Found There.
+> Lewis Carroll, Through the Looking Glass: and what Alice Found There.
 
 > "At some point, everything's gonna go south on you... everything's going to go south and you're going to say, this is it. This is how I end. Now you can either accept that, or you can get to work. That's all it is. You just begin. You do the math. You solve one problem... and you solve the next one... and then the next. And If you solve enough problems, you get to come home."
 > 
