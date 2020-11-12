@@ -39,20 +39,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 * ⛷️ Skiing
 * 🎵 Rhythm games
 * 🥧 Mathematics
-* ⚛️ Physics
 * 👨‍💻 Scientific programming
-
-## Scientific Goals
-### General
-* Publishing in academia
-  * Applied mathematics
-  * Scientific programming
-* Contribute to open source development
-  * Julia programming
-
-### Specific
-* Learn [Julia Programming][julia]
-* Complete studying [Computational Ocean Acoustics][acoustics_book]
 
 ## Projects
 ### Ocean Acoustics
@@ -69,6 +56,13 @@ Publish a completion of my honours thesis on [protein diffusion][diffusion] on c
 
 ## Learning
 * [Julia][julia] programming
+  * Differential equations
+  * Parallel & distributed programming
+  * Scientific machine learning
+  * API design
+* Ocean Acoustics
+  * As part of profession
+  * [Computational Ocean Acoustics][acoustics_book]
 
 [linkedin]: https://www.linkedin.com/in/aaron-kaw-392033b3/
 
