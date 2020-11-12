@@ -4,9 +4,9 @@
 \
 G'day! This GitHub profile is a collection of personal projects I'm working on.
 
-### Career
+## Career
 
-[<img align="left" alt="UNSW Icon" height="24px" src="https://iconape.com/wp-content/files/ta/195761/png/unsw-australia-university-of-new-south-wales-logo.png" />][unsw]
+[<img align="left" alt="UNSW Icon" height="26px" src="https://iconape.com/wp-content/files/ta/195761/png/unsw-australia-university-of-new-south-wales-logo.png" />][unsw]
 <br>
 
 * Bachelor of Advanced Science (Honours) (Advanced Mathematics)
@@ -20,7 +20,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 * Thales Australia, Underwater Systems, General Sonar Studies
 * 2017 - present
 
-### Languages & Tools
+## Languages & Tools
 
 [<img align="left" alt="Julia Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_julia.svg" />][julia]
 [<img align="left" alt="LaTeX Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_tex.svg" />][latex]
@@ -29,7 +29,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 [<img align="left" alt="Visual Studio Code Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />][vscode]
 <br>
 
-### I am novice/intermediate in
+## I am novice/intermediate in
 
 * 🎹 Playing the piano
 * 🔐 Escape rooms
@@ -42,25 +42,33 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 * ⚛️ Physics
 * 👨‍💻 Scientific programming
 
-### Scientific Goals
-#### General
+## Scientific Goals
+### General
 * Publishing in academia
   * Applied mathematics
   * Scientific programming
 * Contribute to open source development
   * Julia programming
 
-#### Specific
+### Specific
 * Learn [Julia Programming][julia]
 * Complete studying [Computational Ocean Acoustics][acoustics_book]
 
-#### Projects
-* In development:
-  * [Ocean acoustics modelling software][oac]
-  * Publish a completion of my honours thesis on [protein diffusion][diffusion] on cell membranes
-* Prospective:
-  * Write MP3-analysing, beatmap producing software for [rhythm games][osu]
-  * Analyse [Transmission][transmission] game
+## Projects
+### Ocean Acoustics
+[Developing a Julia package][oac] of ocean acoustics model implementations.
+
+![](https://github.com/kapple19/OceanAcoustics.jl/blob/master/plots/raytraces/n2linear.png)
+
+### Protein Diffusion
+Publish a completion of my honours thesis on [protein diffusion][diffusion] on cell membranes
+
+### Prospective
+* Write MP3-analysing, beatmap producing software for [rhythm games][osu]
+* Analyse [Transmission][transmission] game
+
+## Learning
+* [Julia][julia] programming
 
 [linkedin]: https://www.linkedin.com/in/aaron-kaw-392033b3/
 
