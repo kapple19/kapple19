@@ -120,4 +120,4 @@ Publish a completion of my honours thesis of [protein diffusion][diffusion] on c
 
 [facebook]: https://www.facebook.com/aaron.kaw.98
 
-[email]: aaron.kaw@gmail.com
+[email]: mailto:aaron.kaw@gmail.com
