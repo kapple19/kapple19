@@ -14,14 +14,12 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 * 2017 - present
 
 #### Languages & Tools
-* [<img align="left" alt="kapple19 | Julia" width="22px" src="https://github.com/JuliaLang/julia-logo-graphics/blob/master/images/julia-dots.svg" />][julia] Julia
 * [<img align="left" alt="kapple19 | Julia" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_julia.svg" />][julia] Julia
-* Matlab
-* LaTeX
+* [<img align="left" alt="kapple19 | LaTeX" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_tex.svg" />][latex] LaTeX
+* [<img align="left" alt="kapple19 | Matlab" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_matlab.svg" />][matlab] Matlab
 
 * Visual Studio Code
 * Visual Studio
-* 
 
 
 ### I am novice/intermediate in
@@ -70,3 +68,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 [transmission]: https://play.google.com/store/apps/details?id=com.lojugames.games.transmission&hl=en&gl=US
 
 [osu]: https://osu.ppy.sh/home
+
+[matlab]: https://au.mathworks.com/products/matlab.html
+
+[latex]: https://www.latex-project.org/
