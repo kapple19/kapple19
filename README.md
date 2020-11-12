@@ -53,7 +53,7 @@ See my [curriculum vitae][cv]!
 ![](https://github.com/kapple19/OceanAcoustics.jl/blob/master/plots/raytraces/n2linear.png)
 
 ### Protein Diffusion
-Publish a completion of my honours thesis on [protein diffusion][diffusion] on cell membranes.
+Publish a completion of my honours thesis of [protein diffusion][diffusion] on cell membranes.
 
 ### Prospective
 * Write MP3-analysing, beatmap producing software for [rhythm games][osu]
