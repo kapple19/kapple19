@@ -1,6 +1,6 @@
 ## Aaron Kaw (kapple19)
 
-[<img align="left" alt="kapple19 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]\
+[<img align="left" alt="kapple19 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] \
 \
 G'day! This GitHub profile is a collection of personal projects I'm working on.
 
@@ -10,7 +10,7 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 * Graduated 2017
 
 #### Ocean Acoustics Modeller
-[<img align="left" alt="Thales Icon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thales_Logo.svg" />][thales]
+[<img align="left" alt="Thales Icon" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Thales_Logo.svg" />][thales] \
 * Thales Australia, Underwater Systems, General Sonar Studies
 * 2017 - present
 
