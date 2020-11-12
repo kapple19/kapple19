@@ -12,16 +12,16 @@ Ocean Acoustics Modeller
 
 ## Interests
 I am novice/intermediate in:
-* Playing the piano
-* Escape rooms
-* Ice skating
-* Electric skateboarding
-* Iron puzzles
-* Skiing
-* Rhythm games
-* Mathematics
-* Physics
-* Scientific programming
+* 🎹 Playing the piano
+* 🚪 Escape rooms
+* ⛸️ Ice skating
+* 🛹 Electric skateboarding
+* 🧩 Iron puzzles
+* ⛷️ Skiing
+* 🎵 Rhythm games
+* 🥧 Mathematics
+* ⚛️ Physics
+* 👨‍💻 Scientific programming
 
 ## Goals
 General:
