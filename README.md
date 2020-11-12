@@ -1,5 +1,7 @@
 ## Aaron Kaw (kapple19)
 
+[<img align="left" alt="kapple19 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/gmail.svg" />][email]
+
 [<img align="left" alt="kapple19 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/facebook.svg" />][facebook]
 
 [<img align="left" alt="kapple19 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] \
@@ -117,3 +119,5 @@ Publish a completion of my honours thesis of [protein diffusion][diffusion] on c
 [github]: https://github.com/
 
 [facebook]: https://www.facebook.com/aaron.kaw.98
+
+[email]: aaron.kaw@gmail.com
