@@ -14,13 +14,11 @@ G'day! This GitHub profile is a collection of personal projects I'm working on.
 * 2017 - present
 
 #### Languages & Tools
-* [<img align="left" alt="kapple19 | Julia" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_julia.svg" />][julia] Julia
-* [<img align="left" alt="kapple19 | LaTeX" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_tex.svg" />][latex] LaTeX
-* [<img align="left" alt="kapple19 | Matlab" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_matlab.svg" />][matlab] Matlab
-
-* Visual Studio Code
-* Visual Studio
-
+[<img align="left" alt="Julia Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_julia.svg" />][julia] Julia
+[<img align="left" alt="LaTeX Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_tex.svg" />][latex] LaTeX
+[<img align="left" alt="Matlab Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_matlab.svg" />][matlab] Matlab
+[<img align="left" alt="C++ Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" />][cpp] C++
+[<img align="left" alt="Visual Studio Code Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />][vscode]
 
 ### I am novice/intermediate in
 * 🎹 Playing the piano
