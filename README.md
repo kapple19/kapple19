@@ -52,7 +52,7 @@ See my [curriculum vitae][cv]!
 
 ## Projects
 
-[<img align="left" alt="kapple19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kapple19&show_icons=true&hide_border=true" />]
+[<img align="left" alt="kapple19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kapple19&show_icons=true&hide_border=true" />]()
 <br>
 
 ### Ocean Acoustics
