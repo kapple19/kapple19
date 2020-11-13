@@ -51,6 +51,11 @@ See my [curriculum vitae][cv]!
 * 👨‍💻 Scientific programming
 
 ## Projects
+
+<img align="left" alt="kapple19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kapple19&show_icons=true&hide_border=true" />
+<br>
+<br>
+
 ### Ocean Acoustics
 [Developing a Julia package][oac] of ocean acoustics model implementations.
 
@@ -72,12 +77,6 @@ Publish a completion of my honours thesis of [protein diffusion][diffusion] on c
 * Ocean Acoustics
   * As part of profession
   * [Computational Ocean Acoustics][acoustics_book]
-
-## GitHub Stats
-
-<img align="left" alt="kapple19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kapple19&show_icons=true&hide_border=true" />
-
-
 
 ## Favourite Quotes
 
