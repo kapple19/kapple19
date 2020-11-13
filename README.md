@@ -52,8 +52,7 @@ See my [curriculum vitae][cv]!
 
 ## Projects
 
-[<img align="left" alt="kapple19's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kapple19&show_icons=true&hide_border=true" />]()
-<br>
+[![kapple19's github stats](https://github-readme-stats.vercel.app/api?username=kapple19)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Ocean Acoustics
 [Developing a Julia package][oac] of ocean acoustics model implementations.
