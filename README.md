@@ -39,7 +39,7 @@ See my [curriculum vitae][cv]!
 
 ## Neophyte
 
-* 🎹 Playing the piano
+* 🎹 Piano playing
 * 🔐 Escape rooms
 * ⛸️ Ice skating
 * 🛹 Electric skateboarding
