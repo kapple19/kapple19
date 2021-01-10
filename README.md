@@ -45,10 +45,11 @@ See my [curriculum vitae][cv]!
 * 🛹 Electric skateboarding
 * 🧩 Iron puzzles
 * ⛷️ Skiing
+* 🌂 Splatoon
 * 🎵 Rhythm games
 * 🏄 Surfing
 * 🥧 Mathematics
-* 👨‍💻 Scientific programming
+* 💻 Scientific programming
 
 ## Projects
 
