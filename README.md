@@ -58,7 +58,7 @@ See my [curriculum vitae][cv]!
 ### Ocean Acoustics
 [Developing a Julia package of ocean acoustics model implementations][oac].
 
-![](https://github.com/kapple19/OceanAcoustics.jl/blob/master/plots/raytraces/n2linear.png)
+![](https://github.com/kapple19/OceanAcoustics.jl/blob/master/plots/raytrace/n2linear.png)
 
 ### Protein Diffusion
 Publish a completion of my honours thesis of [protein diffusion][diffusion] on cell membranes.
