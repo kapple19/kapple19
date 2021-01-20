@@ -60,6 +60,8 @@ Developing a [Julia package of ocean acoustics model implementations][oac].
 
 ![](https://github.com/kapple19/OceanAcoustics.jl/blob/master/plots/raytrace/n2linear.png)
 
+![](https://github.com/kapple19/OceanAcoustics.jl/blob/master/plots/propagation/n2linear_keep.png)
+
 ### Protein Diffusion
 Publish a completion of my honours thesis of [protein diffusion][diffusion] on cell membranes.
 
