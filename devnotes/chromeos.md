@@ -19,7 +19,13 @@ This markdown file is created to record how I manage with coding on the Chrome O
 * The [online guide][vscode] was very helpful.
 
 ## Usage
-* Had issues with interface. Fixed by restarting.
+Had issues with interface. Fixed by restarting.
+
+In order for VSCode to stop erroring on settings sync, I also had to install `libsecret`. I followed the [Ubuntu website](https://ubuntu.pkgs.org/18.04/ubuntu-main-amd64/libsecret-1-dev_0.18.6-1_amd64.deb.html)'s guide:
+```
+sudo apt-get update
+sudo apt-get install libsecret-1-dev
+```
 
 # Git
 
