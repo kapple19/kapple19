@@ -83,7 +83,7 @@ Publish a completion of my honours thesis of [protein diffusion][diffusion] on c
 
 > "We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more important things."
 > 
-> Posted outside the mathematics reading room, University of Tromsø.
+> Earl C. Kelley, The Workshop Way of Learning
 
 > "At some point everything is going to go south on you. Everything is going to go south and you’re going to say 'This is it. This is how I end.' Now you can either accept that or you can get to work. That’s all it is. You just begin. You do the math, you solve one problem. Then you solve the next one, and then the next and if you solve enough problems you get to come home."
 > 
