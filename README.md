@@ -1,10 +1,10 @@
 ## Aaron Kaw (kapple19)
 
-[<img align="left" alt="kapple19 | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/gmail.svg" />][email]
+[<img align="left" alt="kapple19 | Gmail" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" />][email]
 
-[<img align="left" alt="kapple19 | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="kapple19 | Facebook" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/facebook.svg" />][facebook]
 
-[<img align="left" alt="kapple19 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] \
+[<img align="left" alt="kapple19 | LinkedIn" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" />][linkedin] \
 \
 G'day! This GitHub profile is a collection of personal projects I'm working on.
 
