@@ -1,10 +1,10 @@
 ## Aaron Kaw (kapple19)
 
-[<img align="left" alt="kapple19 | Gmail" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" />][email]
+[<img align="left" alt="kapple19 | Gmail" height="20px" src="https://github.com/gilbarbara/logos/blob/master/logos/google-gmail.svg" />][email]
 
-[<img align="left" alt="kapple19 | Facebook" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/facebook.svg" />][facebook]
+[<img align="left" alt="kapple19 | Facebook" height="20px" src="https://github.com/gilbarbara/logos/blob/master/logos/facebook.svg" />][facebook]
 
-[<img align="left" alt="kapple19 | LinkedIn" height="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" />][linkedin] \
+[<img align="left" alt="kapple19 | LinkedIn" height="20px" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" />][linkedin] \
 \
 G'day! This GitHub profile is a collection of personal projects I'm working on.
 
@@ -28,13 +28,13 @@ See my [curriculum vitae][cv]!
 
 ## Languages & Tools
 
-[<img align="left" alt="Julia Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_julia.svg" />][julia]
-[<img align="left" alt="LaTeX Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_tex.svg" />][latex]
-[<img align="left" alt="Matlab Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_matlab.svg" />][matlab]
-[<img align="left" alt="C++ Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" />][cpp]
-[<img align="left" alt="Visual Studio Code Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />][vscode]
-[<img align="left" alt="Git Icon" width="22px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" />][git]
-[<img align="left" alt="GitHub Icon" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />][github]
+[<img align="left" alt="Julia Icon" width="24px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_julia.svg" />][julia]
+[<img align="left" alt="LaTeX Icon" width="24px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_light_tex.svg" />][latex]
+[<img align="left" alt="Matlab Icon" width="24px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_matlab.svg" />][matlab]
+[<img align="left" alt="C++ Icon" width="24px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_cpp3.svg" />][cpp]
+[<img align="left" alt="Visual Studio Code Icon" width="24px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_vscode.svg" />][vscode]
+[<img align="left" alt="Git Icon" width="24px" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_git.svg" />][git]
+[<img align="left" alt="GitHub Icon" width="24px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />][github]
 <br>
 
 ## Neophyte
