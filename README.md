@@ -54,7 +54,10 @@ See my [curriculum vitae][cv]!
 ## Projects
 * Ocean Acoustics: Developing a [Julia package of ocean acoustics model implementations][oac].
 * Protein Diffusion: Publish a completion of my honours thesis of [protein diffusion][diffusion] on cell membranes.
+<<<<<<< HEAD
 * Write MP3-analysing, beatmap producing software for [rhythm games][osu]
+=======
+>>>>>>> 48ed0e40f0c6593fd6d27b1e92744b443651b4d5
 * Analyse [Transmission][transmission] game
 
 ## Favourite Quotes
