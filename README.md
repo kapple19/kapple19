@@ -52,32 +52,9 @@ See my [curriculum vitae][cv]!
 * 💻 Scientific programming
 
 ## Projects
-
-[![kapple19's github stats](https://github-readme-stats.vercel.app/api?username=kapple19)](https://github.com/anuraghazra/github-readme-stats)
-
-### Ocean Acoustics
-Developing a [Julia package of ocean acoustics model implementations][oac].
-
-![](https://github.com/kapple19/OceanAcoustics.jl/blob/master/plots/raytrace/n2linear.png)
-
-![](https://github.com/kapple19/OceanAcoustics.jl/blob/master/plots/propagation/n2linear_keep.png)
-
-### Protein Diffusion
-Publish a completion of my honours thesis of [protein diffusion][diffusion] on cell membranes.
-
-### Prospective
-* Write MP3-analysing, beatmap producing software for [rhythm games][osu]
+* Ocean Acoustics: Developing a [Julia package of ocean acoustics model implementations][oac].
+* Protein Diffusion: Publish a completion of my honours thesis of [protein diffusion][diffusion] on cell membranes.
 * Analyse [Transmission][transmission] game
-
-## Learning
-* [Julia][julia] programming
-  * Differential equations
-  * Parallel & distributed programming
-  * Scientific machine learning
-  * API design
-* Ocean Acoustics
-  * As part of profession
-  * [Computational Ocean Acoustics][acoustics_book]
 
 ## Favourite Quotes
 
@@ -92,8 +69,6 @@ Publish a completion of my honours thesis of [protein diffusion][diffusion] on c
 [linkedin]: https://www.linkedin.com/in/aaron-kaw-392033b3/
 
 [thales]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiBjbiThv3sAhUszzgGHcTAB_wQFjAAegQICBAD&url=https%3A%2F%2Fwww.thalesgroup.com%2Fen%2Fcountries%2Fasia-pacific%2Faustralia&usg=AOvVaw0o4ME_CLs4zcheYAOAFiCH
-
-[acoustics_book]: https://books.google.com.au/books/about/Computational_Ocean_Acoustics.html?id=eYyD6kTE8lsC&redir_esc=y
 
 [julia]: https://julialang.org/
 [oac]: https://github.com/kapple19/OceanAcoustics.jl
